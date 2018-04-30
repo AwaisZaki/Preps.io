@@ -371,12 +371,7 @@ body {
     .content-wrapper .right_btn button {
         width: 230px;
     }
-    .item .col-md-6 button {
-        border-radius: 10px;
-        color: red;
-        font-weight: lighter;
-        background-color: #80C858;
-    }
+   
 }
 .form-control {
     height: 50px;
@@ -532,7 +527,5 @@ body {
         padding-right: 2px;
         
     }
-    #wrapper{
-        background-color: red;
-    }
+   
 }
